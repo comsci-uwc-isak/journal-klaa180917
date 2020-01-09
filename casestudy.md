@@ -42,6 +42,7 @@ So, the address which is the 149,238'th richest contains exactly 10 Bitcoins. Th
 In cryptography and computer science, a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes. Hash trees allow efficient and secure verification of the contents of large data structures. Hash trees are a generalization of hash lists and hash chains.
 
 PuTTYgen
+
 Its an app to generate public and private key. 
 PuTTYgen - utility for generating RSA and DSA keys (puttygen.exe)
 It is analogous to the ssh-keygen tool used in some other SSH implementations.
